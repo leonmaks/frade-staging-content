@@ -1,0 +1,6 @@
+imports:
+- v2024/root.yaml
+comp:
+  domain: compdomain
+  kadzo:
+    menu_root: Документы/Комп/КА ДЗО/2024/
