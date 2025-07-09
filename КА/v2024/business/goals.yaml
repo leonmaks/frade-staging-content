@@ -1,0 +1,16 @@
+kadzo.v2024.goals:
+  compdomain.goals.strategic_target_1:
+    description: 1. Иметь возможность_1 2.
+      реализация механик_1 3. Реализация новых возможностей_1
+    goal: Реализация страт. цели 1
+    horizon: 2025-2026
+  compdomain.goals.strategic_target_2:
+    description: 1. Иметь возможность_2 2.
+      реализация механик_2 3. Реализация новых возможностей_2
+    goal: Реализация страт. цели 2
+    horizon: 2025
+  compdomain.goals.strategic_target_3:
+    description: 1. Иметь возможность_3 2.
+      реализация механик_3 3. Реализация новых возможностей_3
+    goal: Реализация страт. цели 3
+    horizon: 2025-2026
