@@ -1,0 +1,7 @@
+comp:
+  domains:
+    compdomain:
+      title: АО "Компания Рога и Копыта"
+      version:
+        major: 2025Q2
+        patch: 1
